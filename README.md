@@ -1,6 +1,6 @@
- RESTful Web Service Client-Side
+API client 
 =========================================
-API client desenvolvida em Java, que se comunica com o web service `https://github.com/weyber/RestServicePython`.
+API client desenvolvida em Java, que se comunica com o web service `https://github.com/weyber/rest`.
 
 Configurando o projeto
 ----------------------------------------
